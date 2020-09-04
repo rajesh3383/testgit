@@ -1,2 +1,2 @@
 # testgit
-Git learning exercises  
+Hands-on on Git
